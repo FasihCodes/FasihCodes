@@ -9,10 +9,6 @@
 
 - ⚡ Fun fact **I have a secret love affair with data — my heart skips a beat every time I see a beautifully organized spreadsheet.**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fasih14&label=Profile%20views&color=0e75b6&style=flat" alt="fasih14" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fasih14" alt="fasih14" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/fasih83660570" target="blank"><img src="https://img.shields.io/twitter/follow/fasih83660570?logo=twitter&style=for-the-badge" alt="fasih83660570" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -31,3 +27,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fasih14&show_icons=true&locale=en" alt="fasih14" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fasih14&" alt="fasih14" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fasih14&label=Profile%20views&color=0e75b6&style=flat" alt="fasih14" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fasih14" alt="fasih14" /></a> </p>
