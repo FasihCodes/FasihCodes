@@ -31,3 +31,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fasih14&label=Profile%20views&color=0e75b6&style=flat" alt="fasih14" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fasih14" alt="fasih14" /></a> </p>
+
+
+![Snake animation](https://github.com/fasih14/fasih14/blob/output/github-contribution-grid-snake.svg)
