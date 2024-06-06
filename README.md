@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Fasih Ahmed</h1>
-<h3 align="center">A Data Science Enthusiast from Pakistan</h3>
+<h3 align="center">A Data Analyst Enthusiast from Pakistan</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently honing my skills in **Data Visualization and Statistical Analysis**
 
-- 💬 Ask me about **Python, Artificial Intelligence**
+- 💬 Ask me about **Excel, Python, and Data Analytics tools**
 
 - 📫 How to reach me **fasiha042@gmail.com**
 
-- ⚡ Fun fact **I have a secret love affair with data — my heart skips a beat every time I see a beautifully organized spreadsheet.**
+- ⚡ Fun fact **Data tells stories — I'm the storyteller.**
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 <p align="left"> <a href="https://twitter.com/fasih83660570" target="blank"><img src="https://img.shields.io/twitter/follow/fasih83660570?logo=twitter&style=for-the-badge" alt="fasih83660570" /></a> </p>
