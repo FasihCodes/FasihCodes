@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fasih Ahmed</h1>
-<h3 align="center">A Data Analyst Enthusiast from Pakistan</h3>
+<h3 align="center">A Data Analyst Enthusiast</h3>
 
 - 🌱 I’m currently honing my skills in **Data Visualization and Statistical Analysis**
 
