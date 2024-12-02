@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fasih Ahmed</h1>
-<h3 align="center">A Data Analyst Enthusiast</h3>
+<h3 align="center">Passionate Explorer of Data Insights</h3>
 
 - 🌱 I’m currently honing my skills in **Data Visualization and Statistical Analysis**
 
-- 💬 Ask me about **Excel, Python, and Data Analytics tools**
+- 💬 Ask me about **Python, Computer Vision, Machine Learning, and Data Analysis**
 
 - 📫 How to reach me **fasiha042@gmail.com**
 
